@@ -25,4 +25,5 @@ python cc2538-bsl.py -p COM8 -w ./CC1352P2_CC2652P_other_router_20210128.hex
 | 1 | 10K | 0805 | Resistor |
 | 1 | SMD button |  |  |
 | 1 | MCP1802T-3302I/OT | SOT23-5 | LDO regulator |
-| 1 | EBYTE-E72|  | CC2652P based wireless module |
+| 1 | EBYTE-E72 |  | CC2652P based wireless module |
+| 1 | 1551USB2 |  | USB enclosure by Hammond |
